@@ -1,3 +1,8 @@
+/* 
+ * File : dosen_wali.java
+ * Penulis : Muhamad Gunawan / 24060122120016
+ * Deskripsi : Kelas dosen_wali yang merupakan kelas turunan/inheritence dari kelas Lecture
+ */
 package org.child;
 
 import java.util.ArrayList;

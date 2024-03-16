@@ -1,12 +1,15 @@
+/* 
+ * File : Course.java
+ * Penulis : Muhamad Gunawan / 24060122120016
+ * Deskripsi : Kelas Course yang merupakan kumpulan object nama pelajaran/course
+ */
+
 package org.parent;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Course {
-    /* TODO: implementasi enkapsulasi dengan 
-       berikan akses yang sesuai
-    */
 
     private String courseCode;
     private String courseName;
@@ -51,26 +54,16 @@ public class Course {
     }
 
     public void viewEnrolledStudents() {
-        /* TODO: buatlah fungsi untuk menampilkan seluruh 
-           student yang mengambil course. 
-
-           Hint: gunakan loop dan method getDetails dari Student
-        */
         for (Student student : studentsEnrolled) {
             student.getDetails(student);
         }
     }
 
     public void getDetails() {
-        /* TODO: buat fungsi untuk print detail dari Course, 
-           menampilkan kode course, nama course, dan dosen pengampu
-        */
         System.out.println("Course Kode : " + this.getCourseCode());
         System.out.println("Nama Course : " + this.getCourseName());
         System.out.println("Dosen Pengampu : " + this.lecture.getNamaDosen());
         
         System.out.println(" ");
     }      
-
-    // Other methods...
 }

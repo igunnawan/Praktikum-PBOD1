@@ -1,3 +1,9 @@
+/* 
+ * File : Lecture.java
+ * Penulis : Muhamad Gunawan / 24060122120016
+ * Deskripsi : Kelas Lecture yang merupakan kumpulan object dosen-dosen, mulai dari nama, age, address, employeeID, List mata kuliah yang di ampu
+ */
+
 package org.parent;
 import java.util.List;
 

@@ -1,3 +1,9 @@
+/* 
+ * File : Student.java
+ * Penulis : Muhamad Gunawan / 24060122120016
+ * Deskripsi : Kelas Student merupakan kumpulan object nama murid/student dimana terdapat atribut nama, age, address, StudentId, dan List Mata kuliah yang di ambil
+ */
+
 package org.parent;
 import java.util.List;
 

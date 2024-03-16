@@ -1,3 +1,9 @@
+/* 
+ * File : Main.java
+ * Penulis : Muhamad Gunawan / 24060122120016
+ * Deskripsi : Kelas Main untuk mengimplementasi kelas Student, Lecture, Course, asprak, dosen_wali
+ */
+
 package org.main;
 
 import org.parent.*;

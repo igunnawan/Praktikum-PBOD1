@@ -1,3 +1,9 @@
+/* 
+ * File : asprak.java
+ * Penulis : Muhamad Gunawan / 24060122120016
+ * Deskripsi : Kelas asprak yang merupakan kelas dari inheritence atau turunan kelas Student, dimana memiliki atribut yang diturunkan oleh kelas student.
+ */
+
 package org.child;
 import java.util.List;
 import java.util.ArrayList;
