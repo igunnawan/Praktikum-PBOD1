@@ -43,6 +43,8 @@ public class Main {
       cahyo.viewEnrolledCourses();
       System.out.println("==================================================================== ");
       
+      
+      System.out.println("==================================================================== ");
       System.out.println(" ");
       agus.viewTaughtCourses();
       cs101.viewEnrolledStudents();
