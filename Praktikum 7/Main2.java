@@ -1,3 +1,9 @@
+// 
+// File : Main2.java
+// Deskripsi : Program Main2 yang berisi class Kupu dengan menggunakan methode Generic
+// Penulis : Muhamad Gunawan / 24060122120016
+// 
+
 class Kupu2 {
     void gerak2() {
 

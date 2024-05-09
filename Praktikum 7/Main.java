@@ -1,3 +1,9 @@
+// 
+// File : Main.java
+// Deskripsi : Program Main yang berisi class Kupu dengan menggunakan methode Generic
+// Penulis : Muhamad Gunawan / 24060122120016
+// 
+
 abstract class Kupu {
     void gerak() {
 
