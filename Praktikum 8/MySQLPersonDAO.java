@@ -1,6 +1,11 @@
-
+/*
+ * File : MySQLPersonDAO.java
+ * Deskripsi : Implementasi personDAO untuk MySQL
+ * Penulis : Muhamad Gunawan / 24060122120016
+ */
 
 import java.sql.*;
+
 
 public class MySQLPersonDAO implements PersonDAO {
     public void savePerson(Person person) throws Exception {

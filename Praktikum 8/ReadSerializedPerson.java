@@ -1,6 +1,12 @@
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 
+/*
+ * File : ReadSerializedPerson.java
+ * Deskripsi : Program untuk serialisasi objek Person
+ * Penulis : Muhamad Gunawan / 24060122120016
+ */
+
 public class ReadSerializedPerson {
     public static void main(String[] args) {
         Person person = null;

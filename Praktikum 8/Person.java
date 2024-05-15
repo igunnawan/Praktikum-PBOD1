@@ -1,3 +1,8 @@
+/*
+ * File : Person.java
+ * Deskripsi : Person database model
+ * Penulis : Muhamad Gunawan / 24060122120016
+ */
 
 public class Person {
     private int id;

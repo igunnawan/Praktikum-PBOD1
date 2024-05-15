@@ -3,6 +3,12 @@ import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
+/*
+ * File : SerializePerson.java
+ * Deskripsi : Program untuk serialisasi objek Person
+ * Penulis : Muhamad Gunawan / 24060122120016
+ */
+
 class Person implements Serializable {
     private String name;
     public Person(String n) {

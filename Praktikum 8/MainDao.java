@@ -1,4 +1,8 @@
-
+/*
+ * File : MainDAO.java
+ * Deskripsi : Main program untuk akses DAO
+ * Penulis : Muhamad Gunawan / 24060122120016
+ */
 
 public class MainDao {
     public static void main(String[] args) {
